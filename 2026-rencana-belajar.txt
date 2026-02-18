@@ -1,4 +1,4 @@
-belajar git dan github
+belajar git dan github (sudah mulai belajar)
 belajar flutter
 belajar rest.api
 mendalami figma
