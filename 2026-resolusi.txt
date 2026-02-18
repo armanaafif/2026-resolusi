@@ -2,3 +2,4 @@
 saya ingin beljar lebih banyak mulai dari git dan github, flutter dll
 saya ingin lebih mendalami pemrograman berbasis platform
 saya saat ini sedang belajar git dan github
+saya sudah  mulai praktek dengan github
