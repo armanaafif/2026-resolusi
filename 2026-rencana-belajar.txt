@@ -1,5 +1,5 @@
 belajar git dan github (sudah mulai belajar)
-belajar flutter
+belajar flutter (belajar mulai dari awal)
 belajar rest.api (belum pernah belajar sama sekali)
 mendalami figma (lebih dalan dan lebih detail mengenai UI/UX)
 mendalami laravel (php)
